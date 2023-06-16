@@ -7,7 +7,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build --ssr",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
